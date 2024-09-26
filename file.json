@@ -1,0 +1,32 @@
+"Exemplo de estrutura"
+
+
+{
+    "id": 7,
+    "name": "Abiru",
+    "images": [
+      "https://static.wikia.nocookie.net/naruto/images/7/72/Abiru_new.png"
+    ],
+    "debut": {
+      "manga": "Naruto Chapter #129",
+      "anime": "Naruto Episode #75",
+      "appearsIn": "Anime, Manga"
+    },
+    "personal": {
+      "sex": "Male",
+      "age": {
+        "Part I": "6"
+      },
+      "affiliation": "Sunagakure"
+    },
+    "rank": {
+      "ninjaRank": {
+        "Part I": "Academy Student"
+      }
+    },
+    "voiceActors": {
+      "english": "Dave Wittenberg   (Part I)"
+    }
+  }
+  
+  
