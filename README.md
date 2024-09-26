@@ -1,5 +1,5 @@
 # Akatsuki Data Processing
----
+
 Este projeto realiza a extração, transformação e visualização de dados sobre os personagens da Akatsuki a partir de uma API. O código utiliza as bibliotecas `requests` e `pandas` para obter e manipular os dados.
 
 ### Dependências
